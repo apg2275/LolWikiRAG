@@ -1,0 +1,1 @@
+Stances are a type of ability with both an active and persistent passive component. They are unique to Udyr and were historically also used by Sona , who now utilizes similar mechanics. Abilities: Udyr's Claw , Mantle , Stampede and Storm
