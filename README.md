@@ -6,8 +6,19 @@ Built mainly using [Llama Index](https://github.com/run-llama/llama_index).
 Finetuned vector embeddings were based off of [BAAI's BGE EN Base v1.5](https://huggingface.co/BAAI/bge-base-en-v1.5) then finetuned for improved performance as seen here
 
 # Examples
-![image](https://github.com/apg2275/LolWikiRAG/assets/89856165/6fd9f613-cd1b-4f22-999a-46b7ed6c9ca0)
-![image](https://github.com/apg2275/LolWikiRAG/assets/89856165/d28541a2-3964-416a-a7a8-36604659d67f)
+![image](https://github.com/apg2275/LolWikiRAG/assets/89856165/a112253c-2115-4519-939a-e274b282c0bf)
+![image](https://github.com/apg2275/LolWikiRAG/assets/89856165/eef19b29-c43c-4ec6-8e90-4767f1cd57b5)
+
+![image](https://github.com/apg2275/LolWikiRAG/assets/89856165/e93453a8-6635-498d-b1d3-703c2547ef6a)
+![image](https://github.com/apg2275/LolWikiRAG/assets/89856165/799f2461-ca8b-4637-b96e-39cc13aa1641)
+
+![image](https://github.com/apg2275/LolWikiRAG/assets/89856165/e2e07a60-7c27-406e-8d04-cd4d22a57785)
+![image](https://github.com/apg2275/LolWikiRAG/assets/89856165/33cb3b91-6fb1-4be4-ac1b-1f2be1c5ec69)
+
+![image](https://github.com/apg2275/LolWikiRAG/assets/89856165/f4f593a4-bc65-4eea-ba9d-89c9fd9c9b13)
+![image](https://github.com/apg2275/LolWikiRAG/assets/89856165/b35dc3de-8e5c-4311-84e0-4668ac2e0b29)
+
+
 
 # To Do List
 - [ ] Add Async
