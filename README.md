@@ -5,6 +5,14 @@ Built mainly using [Llama Index](https://github.com/run-llama/llama_index).
 
 Finetuned vector embeddings were based off of [BAAI's BGE EN Base v1.5](https://huggingface.co/BAAI/bge-base-en-v1.5) then finetuned for improved performance as seen here
 
+# Methodology
+ - Generate a list of pages to scrape. As well scrape all LolWiki pages that are linked on each page
+ - Use BeautifulSoup to extra the text for embed testing and keep a separate HTML version for RAG's HTML parser
+ - Create a separate vector store for each category
+ - Treat each vector store as it's own retriever and add metadata descriptions
+ - Create a Router Retriever that uses the descriptions to retrieve documents from multiple vector indexes.
+ - Create Query Pipeline
+ 
 # Examples
 ![image](https://github.com/apg2275/LolWikiRAG/assets/89856165/a112253c-2115-4519-939a-e274b282c0bf)
 ![image](https://github.com/apg2275/LolWikiRAG/assets/89856165/eef19b29-c43c-4ec6-8e90-4767f1cd57b5)
