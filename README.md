@@ -1,5 +1,5 @@
 # LolWikiRAG
-An Language Model (LLM) Retriever-Augmented Generation (RAG) using data scraped from the [League of Legends Wiki](https://leagueoflegends.fandom.com/) (Date: 2/15/2024) with a focus on trying to answer questions regarding gameplay interactions for League of Legends while being able to answer basic questions as well.
+An Language Model (LLM) Retriever-Augmented Generation (RAG) using data scraped from the [League of Legends Wiki](https://leagueoflegends.fandom.com/) (Date: 2/15/2024/v14.3b) with a focus on trying to answer questions regarding gameplay interactions for League of Legends while being able to answer basic questions as well.
 
 Built mainly using [Llama Index](https://github.com/run-llama/llama_index).
 
